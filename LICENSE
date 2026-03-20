@@ -9,6 +9,7 @@ The Author grants you a non-exclusive, royalty-free license to use the Kore comp
 You may not modify, decompile, or reverse-engineer the Kore compiler binary.
 You may not redistribute or sell the Kore compiler binary; users must download it from the official source [https://github.com/SuperBananaMonkey/Kore].
 You may not mirror or host the compiler binary on third-party sites without written permission from the Author.
+Redistribution of the Kore compiler binary is exclusively reserved for the Author. Only official releases published by the Author at the official source are considered legitimate distributions of the Kore compiler.
 
 3. Standard Library
 Notwithstanding the above, the source .js files which are part of the standard library are released under the MIT License. You may modify and redistribute the standard library code freely.
