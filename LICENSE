@@ -1,0 +1,7 @@
+Kore Programming Language End User License Agreement (EULA)
+1. Grant of License: The Author grants you a non-exclusive, royalty-free license to use the Kore compiler binary for personal and commercial purposes.
+2. Restrictions:
+You may not modify, decompile, or reverse-engineer the Kore compiler binary.
+You may not redistribute or sell the Kore compiler binary; users must download it from the official source [https://github.com/SuperBananaMonkey/Kore].
+3. Standard Library: Notwithstanding the above, the source .js files which are part of the standard library are released under the MIT License. You may modify and redistribute the standard library code freely.
+4. Disclaimer: This software is provided "as-is" without warranty of any kind. The author is not liable for any damages arising from its use.
