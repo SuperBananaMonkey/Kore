@@ -1,6 +1,10 @@
 # The Kore Programming Language
 -----------------
 The programming language designed to make developing big web applications easier.Kore enforces types, scopes, and structure at compile time so bugs are caught before the browser ever sees your code.
+----------------------------------------------------------------------
+# Kore Studio (NEW)
+Kore Studio is the new IDE designed just for making Kore applications!
+It is now included with every installation of the Kore Compiler
 ------------------------------------------------------------------------------------------------------------
 # NOTICE:
 This tutorial mainly documents developing Kore applications on Windows since it is mainly available on there!
